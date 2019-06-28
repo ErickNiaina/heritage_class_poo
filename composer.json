@@ -1,0 +1,12 @@
+{
+    "name": "erick/composer",
+    "autoload": {
+    	"psr-4": {
+    		"Fille\\": "Fille",
+    		"Mere\\": "Mere"
+    	}
+    },
+    "require": {
+        "michelf/php-markdown": "^1.8"
+    }
+}
